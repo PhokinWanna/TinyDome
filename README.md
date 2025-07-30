@@ -27,7 +27,8 @@ Raod Map:
 Budget: Around 2,000 - 5,000 baht.
 
 List of Tools & Equipments:
-1.
+1.ESP32-WROOM-32
+2.Breadboard-Mini-Size
 
 
 
