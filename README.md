@@ -126,7 +126,7 @@ Note<Full Scale and more detail in Draw.io>
 	|	|	|-------|------> [Output-Module]
 	|	|	V	|
 	|			|	 				    MQTT   
-	| [Processing-Module]----------> [Communication/Interface-Module] {------} [Server/Cloud] 
+	| [Processing-Module]<---------> [Communication/Interface-Module] {------} [Server/Cloud] 
 	|			
 	|	|	A   A	
 	|	|	|   |----------- [Energy-Resource-Module]
