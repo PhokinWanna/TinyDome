@@ -11,7 +11,7 @@
 
 **Property:** Have all function that Ballistic Missile Defense System could had. But, this prototype was no harm and just an experiment.
 
-**Description:**For The IOT project ONLY,That have potential to integrate into Mobile SAM Prototype.
+**Description:** For The IOT project ONLY,That have potential to integrate into Mobile SAM Prototype.
 **This project has a propose just to learn about IOT and sensor learning,
  DO NOT have any determination or propose to create an object to harm anybody in physically and pyschology.
  Vice Versa, If this project was process to success, it will help another people that might not know or 
