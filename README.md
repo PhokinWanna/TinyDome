@@ -147,4 +147,6 @@ suspect object that coming into radar area.
 
 **Summarize**(date-by-date)**:**
 
-1/8/25: Today, I finish all of it! and now, prepare to commit and push all of it(This file) to my git-repo. Next, prepare to proceesing the first Module. 
+1/8/25: Today, I finish all of it! and now, prepare to commit and push all of it(This file) to my git-repo. Next, prepare to proceesing the first Module.
+
+9/8/25: I finish design the first modle of Fire Mechanism, and now I continue calculate the significantly factor of it. and plan to procure resources 
