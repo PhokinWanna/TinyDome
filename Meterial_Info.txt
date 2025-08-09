@@ -1,0 +1,7 @@
+material_Info:
+
+1.Spring: Material >> Steel, d >> 2.5 mm, D >> 1.7 cm, N >> 73 round, L >> 17.5 cm, Xmax >> 3.5-5.25 cm,
+k >> 1,105.839315354779 N/m(When G=79 GPa), F >> 3.8675 kg or 38.675 N
+
+2. 
+
