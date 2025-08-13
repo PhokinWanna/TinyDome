@@ -120,19 +120,19 @@ Note<Full Scale and more detail in Draw.io>
 
 
 	[Tracking-Module] *------------* [Fire-Mechanism]
-	*		|			A
-	|	A	|			|
-	|	|	|			|
-	|	|	|-------|------> [Output-Module]
-	|	|	V	|
-	|			|	 				    MQTT   
+	*				|			A
+	|			A	|			|
+	|			|	|			|
+	|			|	|-------|------> [Output-Module]
+	|			|	V		|
+	|						|	 				    					MQTT   
 	| [Processing-Module]<---------> [Communication/Interface-Module] {------} [Server/Cloud] 
 	|			
-	|	|	A   A	
-	|	|	|   |----------- [Energy-Resource-Module]
-	|	|	|
-	|	V	|	
-	*		|
+	|			|	A   A	
+	|			|	|   |----------- [Energy-Resource-Module]
+	|			|	|
+	|			V	|	
+	*				|
 	[Input-Module]--|
 
 
